@@ -19,4 +19,4 @@ v1.1.0 [下载](https://github.com/zealson/Zure/raw/master/Zure_v1.1.0.zip/)<br>
 v1.0.0<br>
 正式发布，支持绝大多数策略组图标需求<br>
 ## 效果图预览
-![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/%40Zure%20Policy%20Icon%20Set%20GH.png)
+![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%20GH120.png)
