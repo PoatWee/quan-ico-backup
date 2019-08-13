@@ -5,7 +5,7 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 ## 更新日志
 2019-8-13<br>
 v1.2.0<br>
-1.修正图标：所有图标；（使非对称图标趋向视觉居中，而非绝对居中）
+1.修正图标：所有图标；（使非对称图标趋向视觉居中，而非绝对居中）<br>
 2.调优图标：Mail、Viu<br>
 3.新增图标：Daily<br>
 
@@ -18,5 +18,5 @@ v1.1.0<br>
 2019-8-11<br>
 v1.0.0<br>
 正式发布，支持绝大多数策略组图标需求<br>
-## 效果预览
+## 效果图览
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/%40Zure%20Policy%20Icon%20Set%20GH.png)
