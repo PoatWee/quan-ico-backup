@@ -5,7 +5,7 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 ## 更新日志
 2019-8-13<br>
 v1.2.0 [下载](https://github.com/zealson/Zure/raw/master/Zure_v1.2.0.zip/)<br>
-1.修正图标：所有图标；（使非对称图标趋向视觉居中，而非绝对居中）<br>
+1.修正图标：所有图标（非对称图标趋向视觉居中，而非绝对居中）<br>
 2.调优图标：Mail、Viu<br>
 3.新增图标：Daily<br>
 
