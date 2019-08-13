@@ -4,7 +4,7 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 
 ## 使用说明
 该操作以Quantumult X v1.0.0-build91为示例 [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions91.png)
-![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions91.png)
+![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions.png)
 
 ## 更新日志
 2019-8-13<br>
@@ -23,4 +23,4 @@ v1.1.0 [下载](https://github.com/zealson/Zure/raw/master/Zure_v1.1.0.zip/)<br>
 v1.0.0<br>
 正式发布，支持绝大多数策略组图标需求<br>
 ## 效果图预览
-![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%20GH120.png)
+![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%20GH.png)
