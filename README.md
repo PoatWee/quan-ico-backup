@@ -4,7 +4,7 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 
 ## 使用说明
 该操作以Quantumult X v1.0.0-build91为示例
-![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions.png)
+![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions91.png)
 
 ## 更新日志
 2019-8-13<br>
