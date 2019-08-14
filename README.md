@@ -1,5 +1,6 @@
 # Zure
-![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/ZureLogo.png)
+<br>
+![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/ZureLogo.png)<br>
 <br>
 ## 简介<br>
 Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)内策略组而精心设计的一套图标组。在这里你可以下载Zure图标组并获得更新。<br>
