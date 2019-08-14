@@ -5,7 +5,10 @@
 Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)内策略组而精心设计的一套图标组。在这里你可以下载Zure图标组并获得更新。<br>
 
 ## 使用说明
-该操作以Quantumult X v1.0.0-build91为例 [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions.png)
+该操作以Quantumult X v1.0.0-build91为例<br>
+1.打开"文件"应用后，依次进入进入“我的iPhone→Quantumult X→Images”<br>
+2.将**个人设定**的策略组名称**同名的.png文件**粘贴到Images文件夹内，重启Quantumult X即可见到效果<br>
+ [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions.png)<br>
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions.png)
 
 ## 下载地址
