@@ -20,7 +20,7 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 v1.5.0<br>
 1.部分图标重命名；<br>
 2.所有图标细分分组（Filter、Country、Inhibition、Service、Media、Room、Ratio、Airport、Other）；<br>
-3.所有图标增加颜色标签（macOS下），便于区别不同类型图标；<br>
+3.所有图标增加文件颜色标签（macOS、iOS下），便于区别不同类型图标；<br>
 4.降低图片压缩比例，提升所有图标画质清晰度；<br>
 5.修正图标：Domestic、Back、ForeignMedia、InlandMedia；<br>
 6.调优图标：部分国旗图标细节优化，趋向形似，而非实物，辨识度提升；其它大量图标细节调优；<br>
