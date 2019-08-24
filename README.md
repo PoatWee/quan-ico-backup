@@ -18,7 +18,7 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 ## 更新日志
 2019-8-24<br>
 v1.5.1<br>
-1.调优图标：Singapore、Advertising、AdBlack、AdWhite、GCP；<br>
+1.调优图标：Singapore、Advertising、AdBlack、AdWhite、GCP、Pornhub；<br>
 
 2019-8-24<br>
 v1.5.0<br>
