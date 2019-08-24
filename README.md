@@ -13,11 +13,11 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions.png)
 
 ## 下载地址
- [点击下载](https://github.com/zealson/Zure/raw/master/Zure_v1.5.1.zip/)
+ [点击下载](https://github.com/zealson/Zure/raw/master/Zure_v1.5.2.zip/)
  
 ## 更新日志
 2019-8-24<br>
-v1.5.1<br>
+v1.5.2<br>
 1.调优图标：Singapore、Advertising、AdBlack、AdWhite、GCP、Pornhub；<br>
 
 2019-8-24<br>
@@ -47,5 +47,5 @@ v1.1.0<br>
 v1.0.0<br>
 正式发布，支持绝大多数策略组图标需求<br>
 ## 效果图预览
-[查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.5.1%20GH.png)
-![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.5.1%20GH.png)
+[查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.5.2%20GH.png)
+![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.5.2%20GH.png)
