@@ -13,9 +13,14 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions.png)
 
 ## 下载地址
- [点击下载](https://github.com/zealson/Zure/raw/master/Zure_v1.5.2.zip/)
+ [点击下载](https://github.com/zealson/Zure/raw/master/Zure_v1.5.3.zip)
  
 ## 更新日志
+2019-8-24<br>
+v1.5.3<br>
+1.图标更名：Macau→Macao（Area）；<br>
+2.新增图标：YoYu（Airport）；<br>
+
 2019-8-24<br>
 v1.5.2<br>
 1.调优图标：Singapore、Advertising、AdBlack、AdWhite、GCP、Pornhub；<br>
@@ -23,7 +28,7 @@ v1.5.2<br>
 2019-8-24<br>
 v1.5.0<br>
 1.部分图标重命名；<br>
-2.所有图标细分分组（Filter、Country、Inhibition、Service、Media、Room、Ratio、Airport、Other）；<br>
+2.所有图标细分分组（Filter、Area、Inhibition、Service、Media、Room、Ratio、Airport、Other）；<br>
 3.所有图标增加文件颜色标签（macOS、iOS下），便于区别不同类型图标；<br>
 4.降低图片压缩比例，提升所有图标画质清晰度；<br>
 5.修正图标：Domestic、Back、ForeignMedia、InlandMedia；<br>
@@ -47,5 +52,5 @@ v1.1.0<br>
 v1.0.0<br>
 正式发布，支持绝大多数策略组图标需求<br>
 ## 效果图预览
-[查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.5.2%20GH.png)
-![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.5.2%20GH.png)
+[查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.5.3%20GH.png)
+![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.5.3%20GH.png)
