@@ -28,7 +28,7 @@ v1.5.0<br>
 4.降低图片压缩比例，提升所有图标画质清晰度；<br>
 5.修正图标：Domestic、Back、ForeignMedia、InlandMedia；<br>
 6.调优图标：部分国旗图标细节优化，趋向形似，而非实物，辨识度提升；其它大量图标细节调优；<br>
-7.新增图标：Google、Cloudflare、PayPal、Speedtest、Twitter、Spark、Pornhub、bilibili、iQIYI、iQIYI&bilibili；大量主流机房、部分飞行服务商、常用流量倍率；<br>
+7.新增图标：Google、Cloudflare、PayPal、Speedtest、Twitter、Spark、Pornhub、bilibili、iQIYI、iQIYI&bilibili、Bot；大量主流机房、部分飞行服务商、常用流量倍率；<br>
 *所有图标强烈建议更新替换*<br>
 
 2019-8-13<br>
