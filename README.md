@@ -6,7 +6,7 @@
 Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)内策略组而精心设计的一套图标组。在这里你可以下载并更新它们。<br>
 
 ## 使用说明
-方式一：远程加载(推荐：跨设备同步策略组图标，及时获取图标更新)<br>
+### 方式一：远程加载(推荐：跨设备同步策略组图标，及时获取图标更新)<br>
 该操作以Quantumult X v1.0.0-build103为例<br>
 1.根据本文下方的[效果图预览](https://github.com/zealson/Zure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)，并记下你需要策略组名称，并在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)找到对应的**图标名称**<br>
 2.在Quantumult X的“配置文件-编辑”中找到[policy]中找到策略组，并在该策略组的最后一个节点后方加上<br>
@@ -17,7 +17,7 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Remote_Images.png)<br>
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Remote_Images.png)
 
-方式二：本地加载<br>
+### 方式二：本地加载<br>
 该操作以Quantumult X v1.0.0-build91为例<br>
 1.打开"文件"应用后，依次进入“我的iPhone→Quantumult X→Images”<br>
 2.将**个人设定**的策略组名称**同名的.png文件**粘贴到Images文件夹内，重启Quantumult X即可见到效果<br>
@@ -30,7 +30,6 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 v1.6.0<br>
 1.调优图标：YoYu（Airport）；<br>
 2.新增图标：Telegram X（Service）；<br>
-*Quantumult X 1.0.0（103）支持策略组图标在线地址，可根据需要自行选择打包下载或配置图标地址；教程后补*
 
 2019-8-24<br>
 v1.5.3<br>
