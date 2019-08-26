@@ -12,10 +12,14 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
  [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions.png)<br>
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Instructions.png)
 
-## 下载地址
- [点击下载](https://github.com/zealson/Zure/raw/master/Zure_v1.5.3.zip)
  
 ## 更新日志
+2019-8-26<br>
+v1.6.0<br>
+1.调优图标：YoYu（Airport）；<br>
+2.新增图标：Telegram X（Service）；<br>
+*Quantumult X 1.0.0（103）支持策略组图标在线地址，可根据需要自行选择打包下载或配置图标地址；教程后补*
+
 2019-8-24<br>
 v1.5.3<br>
 1.图标更名：Macau→Macao（Area）；<br>
@@ -52,5 +56,5 @@ v1.1.0<br>
 v1.0.0<br>
 正式发布，支持绝大多数策略组图标需求<br>
 ## 效果图预览
-[查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.5.3%20GH.png)
-![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.5.3%20GH.png)
+[查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.6.0%20GH.png)
+![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure%20Policy%20Icon%20Set%201.6.0%20GH.png)
