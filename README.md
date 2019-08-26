@@ -8,7 +8,7 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 ## 使用说明
 ### 方式一：远程加载(推荐：跨设备同步策略组图标，及时获取图标更新)<br>
 该操作以Quantumult X v1.0.0-build103为例<br>
-1.根据本文下方的[效果图预览](https://github.com/zealson/Zure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)，并记下你需要策略组名称，并在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)找到对应的**图标名称**<br>
+1.在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)找到需要的策略组图标并记下**图标名称**([效果图预览](https://github.com/zealson/Zure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88))<br>
 2.在Quantumult X的“配置文件-编辑”中找到[policy]中找到策略组，并在该策略组的最后一个节点后方加上<br>
 *, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/图标名称.png*<br>
 例如：<span>static=Hong Kong, Server1, Server2, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Hong_Kong.png<br>
