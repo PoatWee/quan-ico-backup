@@ -14,15 +14,15 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 例如：<span>static=Hong Kong, Server1, Server2, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Hong_Kong.png<br>
 注意：此处的“Hong_Kong.png”**图标名称**中的下划短横线和字母大小写<br>
 3.重启Quantumult X即可见到效果<br>
-[查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Remote_Images.png)<br>
-![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Remote_Images.png)
+[查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Remote_Icon.png)<br>
+![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Remote_Icon.png)
 
 ### 方式二：本地加载<br>
 该操作以Quantumult X v1.0.0-build91为例<br>
 1.打开"文件"应用后，依次进入“我的iPhone→Quantumult X→Images”<br>
 2.将**个人设定**的策略组名称**同名的.png文件**粘贴到Images文件夹内，重启Quantumult X即可见到效果<br>
- [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Images.png)<br>
-![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Images.png)
+ [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)<br>
+![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)
 
  
 ## 更新日志
