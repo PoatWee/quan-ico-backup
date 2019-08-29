@@ -3,7 +3,7 @@
 <br>
 
 ## 简介
-Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)内策略组而精心设计的一套图标组。在这里你可以下载并更新它们。<br>
+Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)内策略组而精心设计的一套图标组。在这里你可以订阅、下载并更新它们。<br>
 
 ## 使用说明
 ### 方式一：远程加载(推荐：跨设备同步策略组图标，及时获取图标更新)<br>
