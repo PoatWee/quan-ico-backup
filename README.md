@@ -26,15 +26,19 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 
  
 ## 更新日志
+2019-8-29<br>
+v1.6.1<br>
+1.新增图标：CN2、Nexitally；<br>
+
 2019-8-26<br>
 v1.6.0<br>
-1.调优图标：YoYu（Airport）；<br>
-2.新增图标：Telegram X（Service）；<br>
+1.调优图标：YoYu；<br>
+2.新增图标：Telegram X；<br>
 
 2019-8-24<br>
 v1.5.3<br>
-1.图标更名：Macau→Macao（Area）；<br>
-2.新增图标：YoYu（Airport）；<br>
+1.图标更名：Macau→Macao；<br>
+2.新增图标：YoYu；<br>
 
 2019-8-24<br>
 v1.5.2<br>
