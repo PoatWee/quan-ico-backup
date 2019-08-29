@@ -28,7 +28,8 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 ## 更新日志
 2019-8-29<br>
 v1.6.1<br>
-1.新增图标：CN2、Nexitally；<br>
+1.新增图标：CN2.png、Nexitally.png<br>
+2.调优图标：iQIYI&bilibili.png、iQIYI.png、bilibili.png<br>
 
 2019-8-26<br>
 v1.6.0<br>
