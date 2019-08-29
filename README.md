@@ -21,7 +21,7 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 ### 方式二：本地图标<br>
 该操作以Quantumult X v1.0.0-build91为例<br>
 1.打开"文件"应用后，依次进入“我的iPhone→Quantumult X→Images”<br>
-2.将**个人设定**的策略组名称**同名的.png文件**粘贴到Images文件夹内，重启Quantumult X即可见到效果<br>
+2.将**个人设定**的策略组名称**同名的**.png图标文件(.png图标文件可在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)根据个人需求自行下载)粘贴到Images文件夹内，重启Quantumult X即可见到效果<br>
  [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)
 
