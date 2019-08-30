@@ -14,7 +14,7 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 例如：<span>static=Hong Kong, Server1, Server2, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Hong_Kong.png<br>
 注意：此处的“Hong_Kong.png”**图标名称**中的下划短横线和字母大小写<br>
 3.重启Quantumult X即可见到效果<br>
-*更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“我的 iPhone-Quantumult X-Images”，删除Images文件夹内所有缓存文件)，并重启Quantumult X，图标自动重新下载并生效。*<br>
+*更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“我的 iPhone-Quantumult X-Images”，删除Images文件夹内所有缓存文件)，并重启Quantumult X，远程图标会重新下载并生效。*<br>
 [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Remote_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Remote_Icon.png)
 
