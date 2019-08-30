@@ -6,7 +6,7 @@
 Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)内策略组而精心设计的一套图标组。在这里你可以订阅、下载并更新它们。<br>
 
 ## 使用说明
-### 方式一：远程加载(推荐：跨设备同步策略组图标，及时获取图标更新)<br>
+### 方式一：远程图标(推荐：跨设备同步策略组图标，及时获取图标更新)<br>
 该操作以Quantumult X v1.0.0-build103为例<br>
 1.在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)找到需要的策略组图标并记下**图标名称**([效果图预览](https://github.com/zealson/Zure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88))<br>
 2.在Quantumult X的“配置文件-编辑”中找到[policy]中找到策略组，并在该策略组的最后一个节点后方加上<br>
@@ -14,13 +14,14 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 例如：<span>static=Hong Kong, Server1, Server2, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Hong_Kong.png<br>
 注意：此处的“Hong_Kong.png”**图标名称**中的下划短横线和字母大小写<br>
 3.重启Quantumult X即可见到效果<br>
+*更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“我的 iPhone-Quantumult X-Images”，删除Images文件夹内所有缓存文件)，并重启Quantumult X，图标自动重新下载并生效。*<br>
 [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Remote_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Remote_Icon.png)
 
-### 方式二：本地加载<br>
+### 方式二：本地图标<br>
 该操作以Quantumult X v1.0.0-build91为例<br>
 1.打开"文件"应用后，依次进入“我的iPhone→Quantumult X→Images”<br>
-2.将**个人设定**的策略组名称**同名的.png文件**粘贴到Images文件夹内，重启Quantumult X即可见到效果<br>
+2.将**个人设定**的策略组名称**同名的**.png图标文件(.png图标文件可在[IconSet页面](https://github.com/zealson/Zure/tree/master/IconSet)根据个人需求自行下载)粘贴到Images文件夹内，重启Quantumult X即可见到效果<br>
  [查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)<br>
 ![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Local_Icon.png)
 
@@ -29,7 +30,7 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 2019-8-29<br>
 v1.6.1<br>
 1.新增图标：CN2.png、Nexitally.png<br>
-2.调优图标：iQIYI&bilibili.png、iQIYI.png、bilibili.png<br>
+2.调优图标：Singapore.png、iQIYI&bilibili.png、iQIYI.png、bilibili.png<br>
 
 2019-8-26<br>
 v1.6.0<br>
