@@ -27,6 +27,12 @@ Zure是一款专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 
  
 ## 更新日志
+2019-8-30<br>
+v1.6.5<br>
+1.图标更名：SoftBank.png→SoftBank_Letter.png<br>
+2.调优图标：Apple.png、Spotify.png、Nexitally.png<br>
+3.新增图标：SoftBank.png、Netflix_Letter.png、Vimeo.png、YouTube_Music.png、TIDAL.png、GT.png、BBTEC.png、GIA.png<br>
+
 2019-8-29<br>
 v1.6.1<br>
 1.新增图标：CN2.png、Nexitally.png<br>
