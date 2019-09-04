@@ -27,6 +27,11 @@ Zure是一套专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 
  
 ## 更新日志
+2019-9-4<br>
+v1.6.6<br>
+1.图标上新：Microsoft.png、Windows.png、BBC_iPlayer.png、FOX.png、HBO.png、KKTV.png<br>
+2.图标调优：Global.png、Domestic.png、Back.png、United_States.png<br>
+
 2019-8-30<br>
 v1.6.5<br>
 1.图标更名：SoftBank.png→SoftBank_Letter.png<br>
