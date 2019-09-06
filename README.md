@@ -29,7 +29,8 @@ Zure是一套专为[Quantumult X](https://github.com/crossutility/Quantumult-X/)
 ## 更新日志
 2019-9-5<br>
 v1.6.7<br>
-1.图标调优：United_States.png、Windows.png、Microsoft.png<br>
+1.图标上新：YouTube_Letter.png<br>
+2.图标调优：United_States.png、Windows.png、Microsoft.png<br>
 
 2019-9-4<br>
 v1.6.6<br>
